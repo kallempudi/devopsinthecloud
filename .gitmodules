@@ -1,3 +1,6 @@
 [submodule "lib/sample_app"]
 	path = lib/sample_app
 	url = https://github.com/kallempudi/sample_app.git
+[submodule "test/sample_app"]
+	path = test/sample_app
+	url = https://github.com/kallempudi/sample_app.git
